@@ -1,4 +1,4 @@
-const Header = () => {
+const Hero = () => {
   return (
     <div>Hero</div>
   )
