@@ -7,7 +7,7 @@ const Hero = () => {
       <h3 className="text-4xl my-3 text-gray-700">I am front-end developer.</h3>
       <p className="text-gray-700 mb-8"></p>
           <Button
-           className="bg-purple-600 text-white px-6"
+           className="bg-purple-600 text-white px-6 hidden"
          >Hire Me!</Button> 
     </section>
   )
