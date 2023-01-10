@@ -14,8 +14,8 @@ const Header = () => {
 
   const navigations = [
     { label: 'Home', path: '/' },
-    { label: 'About', path: '/about' },
-    { label: 'Projects', path: '/projects' },
+    { label: 'Sobre', path: '/about' },
+    { label: 'Projetos', path: '/projects' },
   ];
   const renderThemeChanger = () => {
     if(!mounted) return null;
