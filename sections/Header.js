@@ -13,7 +13,7 @@ const Header = () => {
   }, []);
 
   const navigations = [
-    { label: 'Home', path: '/' },
+    { label: 'Inicio', path: '/' },
     { label: 'Sobre', path: '/about' },
     { label: 'Projetos', path: '/projects' },
   ];
